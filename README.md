@@ -15,7 +15,8 @@ Installation
 Usage
 Credits
 License
-Installation
+
+## Installation
 This project does not require any installation as it is a guide and not a software.
 
 ## Usage
